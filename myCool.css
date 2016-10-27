@@ -21,11 +21,14 @@ h2 {
 	border: 4px dotted #00b7ff;
 	padding: 15px;
 	margin: 10px;
-	hover: #FF69B4;
 }
 
 h1 {
 	font-family: Buttermilk, fantasy;
+}
+
+h3 {
+	hover: #FF69B4;
 }
 
 #location-header {
