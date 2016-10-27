@@ -27,8 +27,16 @@ h1 {
 	font-family: Buttermilk, fantasy;
 }
 
-h3:hover {
+h1:hover {
+	
 	color: #FF69B4;
+	
+}
+
+h3:hover {
+	
+	color: #FF69B4;
+	
 }
 
 #location-header {
